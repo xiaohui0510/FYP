@@ -1,0 +1,10 @@
+PyQt5
+pandas
+numpy
+torch
+torchvision
+torchaudio
+transformers
+scikit-learn
+matplotlib
+openpyxl
